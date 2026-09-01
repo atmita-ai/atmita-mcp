@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.atmita/atmita",
+  "title": "Atmita",
+  "description": "Message your Atmita personal agent. One connection reaches your agent and everything it's connected to - WhatsApp, email, calendar, and all its tools.",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.atmita.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://webhook-handler-2vwnts7qcq-uc.a.run.app/mcp"
+    }
+  ]
+}
