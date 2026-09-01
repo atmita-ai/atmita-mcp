@@ -8,7 +8,7 @@
   "remotes": [
     {
       "type": "streamable-http",
-      "url": "https://webhook-handler-2vwnts7qcq-uc.a.run.app/mcp"
+      "url": "https://mcp.atmita.com/mcp"
     }
   ]
 }
